@@ -31,9 +31,9 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "Example name"
+  name: "Marcell Phalevi"
   namecolor: ffc107
-  profession: "Profession"
+  profession: "Student"
   github: "https://github.com"
   linkedin: "https://linkedin.com"
   twitter: "https://twitter.com/"
