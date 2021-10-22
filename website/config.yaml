@@ -85,21 +85,21 @@ params:
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
+    - degree: "SD"
+      branch: "Pasirian"
+      university: "SDN Kalibendo 02"
+      startedyear: "2010"
+      graduation: "2016"
+    - degree: "SMP"
+      branch: "Pasirian"
+      university: "SMPN 1 Pasirian"
+      startedyear: "2016"
+      graduation: "2019"
+    - degree: "SMK"
+      branch: "Pasirian"
+      university: "SMKN Pasirian"
+      startedyear: "2019"
+      graduation: "-"
 
   # Projects
   disable_projects: false
