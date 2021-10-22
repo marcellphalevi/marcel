@@ -42,17 +42,17 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l1_person: "Hi, My name is Marcell."
+  descripe_l2_person: "This is my Biodata [here](#projects)"
   skills:
-    - name: CSS
-      percentage: 90
-    - name: Django
-      percentage: 85
-    - name: Hugo
-      percentage: 80
-    - name: React JS
+    - name: Play game 
       percentage: 70
+    - name: Sleep
+      percentage: 70
+    - name: Sing
+      percentage: 20
+    - name: Live stream
+      percentage: 80
 
   # Experience
   disable_experience: false
